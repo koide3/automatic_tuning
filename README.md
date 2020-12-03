@@ -28,7 +28,7 @@ ls /root/catkin_ws/src
 
 ## 3. Optimization
 
-We assume that you have KITTI 00 rosbag placed at ```~/datasets/kitti/bags/00.bag``` (that can be produced with [kitti2bag](https://github.com/SMRT-AIST/kitti2bag)) and [KITTI ground in TUM format](data/poses.tar.gz) at ```~/datasets/kitti/poses/00_tum.txt```. Here, we minimize 100m RTE of LeGO-LOAM on KITTI 00 sequence by running the collowing command as an example.
+We assume that you have KITTI 00 rosbag placed at ```~/datasets/kitti/bags/00.bag``` (that can be produced with [kitti2bag](https://github.com/SMRT-AIST/kitti2bag)) and [KITTI ground truth data in TUM format](data/poses.tar.gz) at ```~/datasets/kitti/poses/00_tum.txt```. Here, we minimize 100m RTE of LeGO-LOAM on KITTI 00 sequence by running the collowing command as an example.
 
 ```bash
 cd automatic_tuning/scripts

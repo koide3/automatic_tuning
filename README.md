@@ -1,6 +1,6 @@
 # automatic_tuning
 
-This repository provides a hyper parameter tuning framework for LiDAR odometry algorithm. It automatically repeats trial and error loop while sampling different parameter set using SMBO powered by *[Optuna](https://github.com/optuna/optuna)*. The evaluation environment is capsuled as a docker environment that enables us to run multiple evaluation trials in parallel to accelerate the optimization process.
+This repository provides a hyper parameter tuning framework for LiDAR odometry algorithms. It automatically repeats a trial and error loop while sampling different parameter sets using SMBO powered by *[Optuna](https://github.com/optuna/optuna)*. The evaluation environment is encapsulated as a docker environment that enables us to run multiple evaluation trials in parallel to accelerate the optimization process.
 
 # Example usage
 

@@ -56,5 +56,6 @@ All the estimated trajectories and configuration files will be saved at ```scrip
 
 After the parameter optimization, the RTE (100m) decreased from ```2.245886``` to ```1.934585```.
 
-# Paper
-"Automatic Hyper-Parameter Tuning of Black-box LiDAR Odometry", Kenji Koide, Masashi Yokozuka, Shuji Oishi, Atsuhiko Banno
+# Papers
+- Automatic Hyper-Parameter Tuning for Black-box LiDAR Odometry, Kenji Koide, Masashi Yokozuka, Shuji Oishi, Atsuhiko Banno, ICRA2021
+- Adaptive Hyper-Parameter Tuning for Black-box LiDAR Odometry, Kenji Koide, Masashi Yokozuka, Shuji Oishi, Atsuhiko Banno, IROS2021 (under review)
